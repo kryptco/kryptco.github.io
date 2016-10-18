@@ -1,16 +1,16 @@
 Package: kr
-Version: 1.0.4
+Version: 1.0.5
 Architecture: all
 Maintainer: Kevin King <kevin@krypt.co>
-Installed-Size: 25755
+Installed-Size: 25760
 Depends: libsodium18
 Homepage: https://krypt.co
 Priority: optional
 Section: unknown
-Filename: pool/main/k/kr/kr_1.0.4_all.deb
-Size: 5785932
-SHA256: 706e075937c4c5ca2d0304bb96c84a4d0a60f54888f4d5a2c6a229cc0c2218ac
-SHA1: edbb0a35a65f5f5f25470bbb90ba86fa864b5340
-MD5sum: d99be49cce28223421e7ea111fcead9b
+Filename: pool/main/k/kr/kr_1.0.5_all.deb
+Size: 5786912
+SHA256: 5a6722304f09ebcc830ff5acd8206baf32bc4d88c5832e2a87a8d85a28589c0f
+SHA1: 92e7da19b50dbf88d490f45e022fee1d62b39b4a
+MD5sum: 9bb3dada4f13ee83b5640c99ac11278b
 Description: Kryptonite daemon and PKCS11 module.
 
