@@ -1,0 +1,5 @@
+Component: main
+Origin: Reprepro
+Label: Reprepro
+Architecture: amd64
+Description: Reprepro debian repository

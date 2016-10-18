@@ -1,0 +1,9 @@
+Origin: Reprepro
+Label: Reprepro
+Codename: kryptco
+Architectures: i386 amd64 armhf source
+Components: main
+Description: Reprepro debian repository
+DebOverride: override.kryptco
+DscOverride: override.kryptco
+SignWith: 3D7516E7
