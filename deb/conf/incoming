@@ -1,6 +1,6 @@
 Name: kryptco
-IncomingDir: /data/debian/incoming/kryptco
-TempDir: /data/debian/tmp/kryptco
+IncomingDir: ./incoming/kryptco
+TempDir: ./tmp/kryptco
 Allow: kryptco
 Cleanup: on_deny on_error
 
