@@ -12,7 +12,7 @@ Origin: Reprepro
 Label: Reprepro
 Codename: beta
 Architectures: i386 amd64 armhf source
-Components: main
+Components: beta
 Description: Reprepro debian repository
 DebOverride: override.beta
 DscOverride: override.beta
