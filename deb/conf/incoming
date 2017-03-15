@@ -4,3 +4,9 @@ TempDir: ./tmp/kryptco
 Allow: kryptco
 Cleanup: on_deny on_error
 
+Name: beta
+IncomingDir: ./incoming/beta
+TempDir: ./tmp/beta
+Allow: beta
+Cleanup: on_deny on_error
+

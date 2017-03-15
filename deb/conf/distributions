@@ -7,3 +7,13 @@ Description: Reprepro debian repository
 DebOverride: override.kryptco
 DscOverride: override.kryptco
 SignWith: 3D7516E7
+
+Origin: Reprepro
+Label: Reprepro
+Codename: beta
+Architectures: i386 amd64 armhf source
+Components: main
+Description: Reprepro debian repository
+DebOverride: override.beta
+DscOverride: override.beta
+SignWith: 3D7516E7
