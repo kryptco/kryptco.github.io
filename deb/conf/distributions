@@ -6,7 +6,7 @@ Components: main
 Description: Reprepro debian repository
 DebOverride: override.kryptco
 DscOverride: override.kryptco
-SignWith: 3D7516E7
+SignWith: B127178F
 
 Origin: Reprepro
 Label: Reprepro
@@ -16,4 +16,4 @@ Components: beta
 Description: Reprepro debian repository
 DebOverride: override.beta
 DscOverride: override.beta
-SignWith: 3D7516E7
+SignWith: B127178F

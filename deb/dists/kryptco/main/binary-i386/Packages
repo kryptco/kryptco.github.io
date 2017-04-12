@@ -1,15 +1,15 @@
 Package: kr
-Version: 2.0.3a
+Version: 2.0.3f
 Architecture: all
-Maintainer: Kevin King <kevin@krypt.co>
+Maintainer: KryptCo Software Distribution <hello@krypt.co>
 Installed-Size: 20315
 Homepage: https://krypt.co
 Priority: optional
 Section: unknown
-Filename: pool/main/k/kr/kr_2.0.3a_all.deb
-Size: 3651964
-SHA256: cf8c45e72afe124b33eaf6e442a74e9f574fb921998b787ba0681d50f5862d04
-SHA1: 210956cc53a29ca3e7b53e00bf172c545ebc7ec2
-MD5sum: 8227b0522eef4de66e6c6b9946ae65e4
+Filename: pool/main/k/kr/kr_2.0.3f_all.deb
+Size: 3651190
+SHA256: 8390459e9bc3e8852229b9710309c21f03ecd8a4b9e39a18e07657288beceb8c
+SHA1: 924ed1acc940a982992d0cc7b7eef74f00753551
+MD5sum: 43013020f6dc0c98a79eeee881efff5f
 Description: Kryptonite daemon and PKCS11 module.
 
