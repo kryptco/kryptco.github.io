@@ -1,35 +1,35 @@
 Package: kr
-Version: 2.4.6-1
+Version: 2.4.7-1
 Architecture: amd64
 Maintainer: KryptCo Software Distribution <hello@krypt.co>
-Installed-Size: 63273
+Installed-Size: 63285
 Depends: libc6 (>= 2.18), libgcc1 (>= 1:4.2)
 Homepage: https://krypt.co
 Priority: optional
 Section: unknown
-Filename: pool/main/k/kr/kr_2.4.6-1_amd64.deb
-Size: 16884126
-SHA256: 56c5b59525191d24dbfb851968d23c28211109387954b02b4c372cd72db17436
-SHA1: b4085055b4a5cbbd5bbc659ce1f6446fbe9bd5ee
-MD5sum: 6a4cafb98d07476f0387f1ba2f11e772
+Filename: pool/main/k/kr/kr_2.4.7-1_amd64.deb
+Size: 16881972
+SHA256: aaa74c5ec1e97c1990dd1f3ef63be1057c82e6c7c56e50de1aa825d8089e4771
+SHA1: 566974b727d6005b9112dfcf1a02eef159092f3d
+MD5sum: c1ec3b683a120a916f37f876f63b55ea
 Description: SSH and PGP sign using a key stored in Krypton.
 
 Package: kr-dbgsym
 Source: kr
-Version: 2.4.6-1
+Version: 2.4.7-1
 Auto-Built-Package: debug-symbols
 Architecture: amd64
 Maintainer: KryptCo Software Distribution <hello@krypt.co>
 Installed-Size: 555
-Depends: kr (= 2.4.6-1)
+Depends: kr (= 2.4.7-1)
 Homepage: https://krypt.co
 Priority: extra
 Section: debug
-Filename: pool/main/k/kr/kr-dbgsym_2.4.6-1_amd64.deb
-Size: 484500
-SHA256: 7a6a363dfa0ac633c4cf01b7bce2c492c3a6aa30d1cee0717b665789e13ffed7
-SHA1: d032493ea2d4c66e4d22bfc05bbc852c4241918d
-MD5sum: b61251cee38d98bc5db0b0ab892ac7b6
+Filename: pool/main/k/kr/kr-dbgsym_2.4.7-1_amd64.deb
+Size: 484498
+SHA256: 30d907c207e9ff35f09caf3e445bc16973a71287d382fb7ab1b2c5da23f90025
+SHA1: 8154afcb3bac111b5d0d4591185381037c2c39ab
+MD5sum: 39b0d6521576e4a126ab088a68747e1d
 Description: Debug symbols for kr
 Build-Ids: 72dba667cbbe4c5eec0325a2ebf289253a29ee02
 
